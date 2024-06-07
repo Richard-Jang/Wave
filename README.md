@@ -44,6 +44,7 @@ Welcome to Wave, the ultimate communication app tailored specifically for school
 
 - Richard Jang
 - Tiffany Jiang
+- Volkan Ozcomert
 
 <br />
 
