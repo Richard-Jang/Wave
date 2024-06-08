@@ -43,6 +43,8 @@ Welcome to Wave, the ultimate communication app tailored specifically for school
 ## Contributors
 
 - Richard Jang
+- Tiffany Jiang
+- Volkan Ozcomert
 
 <br />
 
